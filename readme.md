@@ -41,5 +41,5 @@ que la propia rotación mediante 'Debug.DrawRay()'.
 ### Ejecución del proyecto
 Aquí se muestra una ejecución al compleo del proyecto:
 
-![]()
+![](https://github.com/alu0101244488/Interfaces-inteligentes-delegados-y-eventos/blob/master/img/introduccion%20a%20los%20scripts%20de%20unity%20-%20SampleScene%20-%20PC,%20Mac%20Linux%20Standalone%20-%20Unity%202021.1.24f1%20Personal%20_DX11_%202021-11-01%2020-07-01.gif?raw=true)
 
